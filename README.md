@@ -8,10 +8,8 @@ This is the official PyTorch implementation of **PrISM-IQA**, a practical ISP-aw
 
 
 <p align="center">
-  <a href="https://github.com/Multimedia-Analytics-Laboratory/PrISM-IQA"><img src="https://img.shields.io/badge/Project-PrISM--IQA-4c6fff" alt="Project"></a>
-  <img src="https://img.shields.io/badge/Paper-Preprint-b31b1b" alt="Paper">
+  <a href="https://arxiv.org/abs/2606.31626"><strong>Paper</strong></a>
 </p>
-
 
 <p align="center">
   <img src="assets/framework.png" width="95%" alt="PrISM-IQA framework">
