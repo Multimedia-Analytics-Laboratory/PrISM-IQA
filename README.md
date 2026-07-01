@@ -10,9 +10,6 @@ This is the official PyTorch implementation of **PrISM-IQA**, a practical ISP-aw
 <p align="center">
   <a href="https://github.com/Multimedia-Analytics-Laboratory/PrISM-IQA"><img src="https://img.shields.io/badge/Project-PrISM--IQA-4c6fff" alt="Project"></a>
   <img src="https://img.shields.io/badge/Paper-Preprint-b31b1b" alt="Paper">
-  <img src="https://img.shields.io/badge/Python-3.9%2B-blue" alt="Python">
-  <img src="https://img.shields.io/badge/PyTorch-2.x-ee4c2c" alt="PyTorch">
-  <img src="https://img.shields.io/badge/Backbone-CLIP%20ViT--L%2F14-green" alt="CLIP ViT-L/14">
 </p>
 
 
